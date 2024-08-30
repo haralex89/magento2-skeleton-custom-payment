@@ -1,2 +1,2 @@
-# magento2-skeleton-custom-payment
-Custom payment Magento 2
+# Magento 2 Custom Payment
+Custom payment for Magento 2 with redirection to custom URL.
